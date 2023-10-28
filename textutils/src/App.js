@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 let name='Ak47';
 
@@ -10,6 +10,7 @@ function App() {
       <li>About</li>
       <li>Contact</li>
     </nav>
+    <img src="" alt=""/>
     <div className="container">
       <h1>Hello {name}</h1>
       <p>
