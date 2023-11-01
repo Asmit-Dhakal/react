@@ -1,4 +1,5 @@
 import React from 'react'
+
 export default function Navbar1(props) {
   return (
   <nav className="navbar navbar-expand-lg bg-body-tertiary"> 
@@ -24,3 +25,4 @@ export default function Navbar1(props) {
 </nav>
   )
 }
+
